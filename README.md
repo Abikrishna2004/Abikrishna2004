@@ -38,7 +38,7 @@
 <br/><br/>
 
 <!-- ==================================================================== -->
-<!--                       ABOUT ME (NO CODE BLOCK)                       -->
+<!--                              ABOUT ME                                -->
 <!-- ==================================================================== -->
 
 ## 🧠 About Me
@@ -331,36 +331,36 @@ Foundation → Practice → Projects → Advanced Concepts → Career Preparatio
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats & Top Languages Cards -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abikrishna2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abikrishna2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abikrishna2004&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=a78bfa" alt="streak stats"/>
+<!-- Streak Stats Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abikrishna2004&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=a78bfa" alt="Streak Stats"/>
 
 <br/><br/>
 
 <!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abikrishna2004&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="95%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abikrishna2004&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" width="95%" alt="Activity Graph"/>
 
 <br/><br/>
 
 <!-- Trophy Case -->
-<img src="https://github-profile-trophy.vercel.app/?username=Abikrishna2004&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abikrishna2004&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%" alt="Trophy Case"/>
 
 <br/><br/>
 
 <!-- Animated Snake Contribution Graph -->
 ### 🧬 Contribution Snake
-<img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake contribution animation"/>
+<img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake Animation"/>
 
 <br/><br/>
 
 <!-- Extended Metrics Dashboard -->
 ### 📈 Profile Metrics Dashboard
-<img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/main/metrics.svg" width="95%" alt="extended profile metrics"/>
+<img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/main/metrics.svg" width="95%" alt="Extended Profile Metrics"/>
 
 </div>
 
