@@ -496,13 +496,13 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 <br/>
 
 <!-- GitHub Stats & Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abikrishna2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=F8FAFC"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abikrishna2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F8FAFC"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abikrishna2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=F8FAFC" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abikrishna2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F8FAFC" alt="Top Languages"/>
 
 <br/><br/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abikrishna2004&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=F8FAFC&dates=A78BFA" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Abikrishna2004&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="Streak Stats"/>
 
 <br/><br/>
 
@@ -512,19 +512,13 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 <br/><br/>
 
 <!-- Trophy Case -->
-<img src="https://github-profile-trophy.vercel.app/?username=Abikrishna2004&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abikrishna2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" alt="Trophy Case"/>
 
 <br/><br/>
 
 <!-- Animated Snake Contribution Graph -->
 <h3 style="color: #a78bfa;">🧬 Contribution Snake Graph</h3>
 <img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Contribution Animation"/>
-
-<br/><br/>
-
-<!-- Extended Metrics Dashboard -->
-<h3 style="color: #a78bfa;">📈 Profile Metrics Dashboard</h3>
-<img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/main/metrics.svg" width="95%" alt="Extended Profile Metrics"/>
 
 </td>
 </tr>
