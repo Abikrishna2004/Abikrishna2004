@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- ==================================================================== -->
+<!--                         HERO DASHBOARD CARD                          -->
+<!-- ==================================================================== -->
+<table width="100%">
+<tr>
+<td align="center" style="background-color: #0d1117; padding: 30px; border: 1px solid #1f2937;">
+
 <br/>
 
 <!-- Company Logo (Compile Journey) -->
@@ -7,7 +14,9 @@
   <img src="assets/compile-journey-logo.png" width="160" alt="Compile Journey Logo"/>
 </a>
 
-<br/><br/><!-- Dynamic Animated Typing Tagline -->
+<br/><br/>
+
+<!-- Dynamic Animated Typing Tagline -->
 <a href="https://github.com/Abikrishna2004">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=100&lines=AI+%26+Machine+Learning+Developer;Data+Science+%26+Analytics+Enthusiast;Python+Developer;Full+Stack+Developer;Building+Intelligent+Applications;Founder+of+Compile+Journey;Building+ProjectRisk;Learning.+Building.+Deploying." alt="Typing Tagline"/>
 </a>
@@ -32,24 +41,23 @@
   <a href="https://abikrishnacj.web.app"><img src="https://img.shields.io/badge/Portfolio-abikrishnacj.web.app-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
 
 <!-- ==================================================================== -->
 <!--                          EXECUTIVE SUMMARY                           -->
 <!-- ==================================================================== -->
 
-## 👤 Profile Overview
-
-<div align="center">
 <table width="100%">
 <tr>
-<td style="background-color: #0D1117; padding: 22px; border: 1px solid #1F2937; border-radius: 8px;">
+<td style="background-color: #0d1117; padding: 22px; border: 1px solid #1f2937; color: #f8fafc;">
+
+<h2 style="color: #a78bfa;">👤 Profile Overview</h2>
 
 I am a final-year **Computer Science and Engineering** student focused on **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **Data Analytics**.
 
@@ -66,7 +74,7 @@ My current focus areas include **RAG**, **LLM applications**, **AI assistants**,
 <br/>
 
 <div align="center">
-<blockquote style="border-left: 4px solid #8B5CF6; padding-left: 10px; color: #A78BFA; font-style: italic;">
+<blockquote style="border-left: 4px solid #8b5cf6; padding-left: 10px; color: #a78bfa; font-style: italic;">
 "Abikrishna builds technology. Compile Journey helps others learn technology."
 </blockquote>
 </div>
@@ -74,39 +82,36 @@ My current focus areas include **RAG**, **LLM applications**, **AI assistants**,
 </td>
 </tr>
 </table>
-</div>
 
-<br/><br/>
+<br/>
 
 <!-- ==================================================================== -->
 <!--                         DETAILED ABOUT ME                            -->
 <!-- ==================================================================== -->
 
-## 🧠 Detailed About Me
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 18px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 📌 Who I Am
+<h3 style="color: #a78bfa;">📌 Who I Am</h3>
 Final-year Computer Science & Engineering undergraduate candidate with a passion for software design, intelligent application development, data analytics, and educational content creation.
 
-### 🛠️ What I Build
+<h3 style="color: #a78bfa;">🛠️ What I Build</h3>
 End-to-end applications that connect user interfaces, backend APIs, relational & vector databases, machine learning classifiers, RAG search pipelines, and decision dashboards.
 
-### 💡 What I Know
+<h3 style="color: #a78bfa;">💡 What I Know</h3>
 Full-stack Python development, machine learning model engineering, data analytics, exploratory data analysis, database modeling, and software engineering principles.
 
 </td>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 18px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 📚 What I Am Learning
+<h3 style="color: #a78bfa;">📚 What I Am Learning</h3>
 Advanced RAG architectures, LLM integration, vector database indexing with ChromaDB, system design protocols, advanced DSA, and research-oriented predictive decision systems.
 
-### 🚀 What I Am Building Now
+<h3 style="color: #a78bfa;">🚀 What I Am Building Now</h3>
 Expanding the **ProjectRisk** AI intelligence platform, designing RAG document intelligence modules, and scaling the **Compile Journey** technology learning repository.
 
-### 🎯 What I Want to Become
+<h3 style="color: #a78bfa;">🎯 What I Want to Become</h3>
 A high-impact **Software Engineer / AI Engineer** who designs explainable, data-driven, production-ready intelligent systems.
 
 </td>
@@ -115,37 +120,34 @@ A high-impact **Software Engineer / AI Engineer** who designs explainable, data-
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
-
 <!-- ==================================================================== -->
 <!--                   COMPILE JOURNEY BRAND SECTION                      -->
 <!-- ==================================================================== -->
 
-## 📚 Compile Journey
-
-<div align="center">
 <table width="100%">
-<tr><td style="background-color: #0D1117; border: 1px solid #1F2937; padding: 22px;">
+<tr>
+<td style="background-color: #0d1117; border: 1px solid #1f2937; padding: 22px; color: #f8fafc;">
 
 <div align="center">
-  <h2 style="color: #A78BFA; margin-top: 10px;">🚀 COMPILE JOURNEY</h2>
-  <p style="color: #94A3B8; font-weight: 600;"><i>"Where Curiosity Compiles Creativity"</i></p>
+  <a href="https://abikrishnacj.web.app">
+    <img src="assets/compile-journey-logo.png" width="140" alt="Compile Journey Logo"/>
+  </a>
+  <h2 style="color: #a78bfa; margin-top: 10px;">COMPILE JOURNEY</h2>
+  <p style="color: #94a3b8; font-weight: 600;"><i>"Where Curiosity Compiles Creativity"</i></p>
 </div>
 
 <br/>
 
 **Compile Journey** is my personal technology education and content initiative designed to organize complex technical topics into structured, practical, project-driven learning paths.
 
-### 🎯 Mission & Vision
+<h3 style="color: #a78bfa;">🎯 Mission & Vision</h3>
 To help students and developers master technology by moving systematically through five progressive learning stages:
 
 ```
 Foundation ──► Practice ──► Projects ──► Advanced Concepts ──► Career Preparation
 ```
 
-### 📖 Learning Ecosystem & Resources
+<h3 style="color: #a78bfa;">📖 Learning Ecosystem & Resources</h3>
 - 🐍 **Python Complete Mastery Guide**: A large-scale, structured guide spanning Python fundamentals through object-oriented programming, data structures, algorithms, problem-solving, and placement preparation covering hundreds of topics.
 - 📊 **Data Analyst Roadmap**: A comprehensive 505-topic booklet covering Excel, SQL, Python, Statistics, Exploratory Data Analysis, Power BI, business reporting, and technical interview preparation.
 - 🤖 **AI/ML & Development Content**: Educational guides covering data science, machine learning models, web development, and software engineering.
@@ -162,27 +164,23 @@ Foundation ──► Practice ──► Projects ──► Advanced Concepts ─
   </a>
 </div>
 
-</td></tr>
+</td>
+</tr>
 </table>
-</div>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
 
 <!-- ==================================================================== -->
 <!--                              EDUCATION                               -->
 <!-- ==================================================================== -->
 
-## 🎓 Education
-
 <table width="100%">
 <tr>
-<td style="background-color: #0D1117; padding: 20px; border: 1px solid #1F2937;">
+<td style="background-color: #0d1117; padding: 20px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🏛️ B.E. Computer Science and Engineering
+<h2 style="color: #a78bfa;">🎓 Education</h2>
+
+<h3 style="color: #a78bfa;">🏛️ B.E. Computer Science and Engineering</h3>
 - **Institution**: **Akshaya College of Engineering and Technology**, Kinathukadavu, Coimbatore, Tamil Nadu, India
 - **University**: **Anna University** (Regulation 2021)
 - **Status**: Final-Year Student | **Expected Graduation**: 2027
@@ -190,9 +188,9 @@ Foundation ──► Practice ──► Projects ──► Advanced Concepts ─
 #### 📚 Academic Coursework & Core Foundations
 Data Structures and Algorithms · Database Management Systems · Operating Systems · Artificial Intelligence · Machine Learning · Data Mining · Big Data Analytics · Web Technologies · Cryptography & Cyber Security · Discrete Mathematics · Algorithm Analysis · Software Engineering
 
-<hr style="border: 1px solid #1F2937;"/>
+<hr style="border: 1px solid #1f2937;"/>
 
-### 🏫 Secondary Schooling
+<h3 style="color: #a78bfa;">🏫 Secondary Schooling</h3>
 - **School**: **Shri Makesh Vidhyalaya Matriculation School**, Tirupur, Tamil Nadu
 
 </td>
@@ -201,21 +199,15 @@ Data Structures and Algorithms · Database Management Systems · Operating Syste
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
-
 <!-- ==================================================================== -->
 <!--                          TECHNICAL SKILLS                            -->
 <!-- ==================================================================== -->
 
-## 🛠️ Technical Skills
-
 <table width="100%">
 <tr>
-<td width="33%" valign="top" style="background-color: #0D1117; padding: 14px;">
+<td width="33%" valign="top" style="background-color: #0d1117; padding: 16px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 💻 Programming Languages
+<h3 style="color: #a78bfa;">💻 Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -223,7 +215,7 @@ Data Structures and Algorithms · Database Management Systems · Operating Syste
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🤖 Machine Learning
+<h3 style="color: #a78bfa;">🤖 Machine Learning</h3>
 <p>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-1560BD?style=for-the-badge&logoColor=white"/>
@@ -231,9 +223,9 @@ Data Structures and Algorithms · Database Management Systems · Operating Syste
 </p>
 
 </td>
-<td width="33%" valign="top" style="background-color: #0D1117; padding: 14px;">
+<td width="33%" valign="top" style="background-color: #0d1117; padding: 16px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 📊 Data Science & Analytics
+<h3 style="color: #a78bfa;">📊 Data Science & Analytics</h3>
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -241,7 +233,7 @@ Data Structures and Algorithms · Database Management Systems · Operating Syste
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### 🧠 AI & RAG Ecosystem
+<h3 style="color: #a78bfa;">🧠 AI & RAG Ecosystem</h3>
 <p>
 <img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sentence--Transformers-4B0082?style=for-the-badge&logoColor=white"/>
@@ -250,9 +242,9 @@ Data Structures and Algorithms · Database Management Systems · Operating Syste
 </p>
 
 </td>
-<td width="33%" valign="top" style="background-color: #0D1117; padding: 14px;">
+<td width="33%" valign="top" style="background-color: #0d1117; padding: 16px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🌐 Web & Databases
+<h3 style="color: #a78bfa;">🌐 Web & Databases</h3>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -262,7 +254,7 @@ Data Structures and Algorithms · Database Management Systems · Operating Syste
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🛠️ Cloud & Tools
+<h3 style="color: #a78bfa;">🛠️ Cloud & Tools</h3>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -277,15 +269,15 @@ Data Structures and Algorithms · Database Management Systems · Operating Syste
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
-
 <!-- ==================================================================== -->
 <!--                     SPECIALIZED DOMAIN SECTIONS                      -->
 <!-- ==================================================================== -->
 
-## 🐍 Python Core & Learning Initiative
+<table width="100%">
+<tr>
+<td style="background-color: #0d1117; padding: 22px; border: 1px solid #1f2937; color: #f8fafc;">
+
+<h2 style="color: #a78bfa;">🐍 Python Core & Learning Initiative</h2>
 
 Python is my primary programming language. I apply Python across data science, data analysis, machine learning, artificial intelligence, automation, backend development, Streamlit applications, RAG systems, and algorithmic problem-solving.
 
@@ -297,7 +289,7 @@ Under **Compile Journey**, I author a large-scale, structured **Python Complete 
 
 <br/>
 
-## 🤖 Artificial Intelligence & Decision Systems
+<h2 style="color: #a78bfa;">🤖 Artificial Intelligence & Decision Systems</h2>
 
 My focus in AI moves beyond simple model training toward **explainable, actionable, and intelligent decision systems**.
 
@@ -306,54 +298,16 @@ My focus in AI moves beyond simple model training toward **explainable, actionab
 
 <br/>
 
-## 📊 Machine Learning Engineering
+<h2 style="color: #a78bfa;">📊 Machine Learning Engineering</h2>
 
 Detailed application of classical and gradient-boosted machine learning techniques:
-
 - **ML Pipeline**: Classification · Predictive Modeling · Feature Engineering · Data Preprocessing · Outlier Handling · Categorical Encoding · Model Training · Model Optimization · Model Evaluation · Risk Prediction · Pattern Detection
 - **Frameworks & Libraries**: Scikit-learn · CatBoost · XGBoost · Pandas · NumPy
 - **Evaluation Metrics**: Accuracy · Recall · ROC-AUC · F2 Score (prioritizing recall for risk detection)
 
 <br/>
 
-## 📈 Data Science & Data Analytics
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px;">
-
-### 🔬 Data Science
-- **Workflow**: Data Collection · Data Cleaning · Data Preprocessing · Exploratory Data Analysis (EDA) · Feature Engineering · Statistical Analysis · Data Visualization · Predictive Modeling · Model Evaluation · Business Insights
-- **Tooling**: Python · Pandas · NumPy · Jupyter Notebook · Google Colab
-
-</td>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px;">
-
-### 📊 Data Analytics
-- **Workflow**: Data Cleaning · Data Transformation · Dashboard Development · Business Reporting · Data Visualization · Insight Generation
-- **Tooling**: Excel · Power BI · Python · Pandas · SQL
-- **Initiative**: Authoring a structured **505-Topic Data Analyst Roadmap** under Compile Journey.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🌐 Full Stack Web Development & Databases
-
-I build complete web applications with dedicated frontends, backend server logic, and structured database storage:
-
-- **Frontend**: HTML5 · CSS3 · JavaScript
-- **Backend**: Flask · Node.js
-- **Application Framework**: Streamlit (for rapid AI/ML dashboard deployment)
-- **Relational Databases**: MySQL · SQLite (structured transactional data)
-- **NoSQL Databases**: MongoDB · MongoDB Atlas (document storage)
-- **Vector Databases**: ChromaDB (embeddings & RAG similarity search)
-
-<br/>
-
-## 🧠 RAG & Document Intelligence Architecture
+<h2 style="color: #a78bfa;">🧠 RAG & Document Intelligence Architecture</h2>
 
 Transitioning traditional ML systems into intelligent RAG-powered applications:
 
@@ -367,24 +321,27 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 - **Supported Formats**: PDF · CSV · DOCX · TXT · JSON
 - **Technical Concepts**: Sentence Transformers · Vector Embeddings · Vector Search · Document Chunking · Metadata Preservation · Contextual Retrieval · ChromaDB Integration · LLM Prompt Contextualization
 
+</td>
+</tr>
+</table>
+
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
 
 <!-- ==================================================================== -->
 <!--                         MAJOR PROJECTS GRID                          -->
 <!-- ==================================================================== -->
 
-## 🚀 Major Projects Portfolio
-
 <table width="100%">
+<tr>
+<td colspan="2" style="background-color: #0d1117; padding: 15px 20px; border: 1px solid #1f2937; color: #a78bfa;">
+<h2 style="margin: 0;">🚀 Major Projects Portfolio</h2>
+</td>
+</tr>
 
 <tr>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px; border: 1px solid #1F2937;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 18px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🛡️ Project 1: ProjectRisk AI
+<h3 style="color: #a78bfa;">🛡️ Project 1: ProjectRisk AI</h3>
 **AI Project Risk Forecasting & Decision Intelligence System**
 
 - **Objective**: Predict project risk levels and surface early warning signals before project failure becomes critical across IT and non-IT sectors.
@@ -395,9 +352,9 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 - 🔗 [View Repository](REPLACE_WITH_REPO_LINK)
 
 </td>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px; border: 1px solid #1F2937;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 18px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🔬 Project 2: AI Early Warning System
+<h3 style="color: #a78bfa;">🔬 Project 2: AI Early Warning System</h3>
 **Hidden Project Failure Signal Detection (Research Direction)**
 
 - **Objective**: Identify subtle hidden patterns indicating project failure before traditional project monitoring methods flag a risk.
@@ -410,9 +367,9 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 </tr>
 
 <tr>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px; border: 1px solid #1F2937;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 18px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🚗 Project 3: Autonomous Obstacle Avoiding Vehicle
+<h3 style="color: #a78bfa;">🚗 Project 3: Autonomous Obstacle Vehicle</h3>
 🏆 **FIRST PRIZE WINNER**
 
 - **Objective**: Embedded autonomous vehicle engineered for real-time obstacle detection and automated navigation decisions.
@@ -422,10 +379,10 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 - 🔗 [View Repository](REPLACE_WITH_REPO_LINK)
 
 </td>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px; border: 1px solid #1F2937;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 18px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🩺 Project 4: AI Disease Prediction System
-**Machine Learning Health Risk Classifier** *(Educational ML Project)*
+<h3 style="color: #a78bfa;">🩺 Project 4: AI Disease Prediction</h3>
+**Machine Learning Health Risk Classifier** *(Educational ML)*
 
 - **Objective**: Predict disease risk categories from user-provided biometrics using supervised learning algorithms.
 - **Capabilities**: Medical Metric Preprocessing · Feature Analysis · Classification · Model Evaluation
@@ -437,9 +394,9 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 </tr>
 
 <tr>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px; border: 1px solid #1F2937;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 18px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🛒 Project 5: E-Commerce Platform
+<h3 style="color: #a78bfa;">🛒 Project 5: E-Commerce Platform</h3>
 **Full Stack Shopping Application**
 
 - **Objective**: Complete web application facilitating product catalog browsing, cart management, and order processing.
@@ -448,9 +405,9 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 - 🔗 [View Repository](REPLACE_WITH_REPO_LINK)
 
 </td>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px; border: 1px solid #1F2937;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 18px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 📚 Project 6: Compile Journey Platform
+<h3 style="color: #a78bfa;">📚 Project 6: Compile Journey Platform</h3>
 **Technology Learning Ecosystem**
 
 - **Objective**: Educational platform serving structured roadmaps, Python mastery guides, and data analytics booklets.
@@ -462,107 +419,59 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px; border: 1px solid #1F2937;">
-
-### 📦 Project 7: Catalog Management System
-**Product Information Management Application**
-
-- **Objective**: Desktop/Web application focused on structured catalog creation, product indexing, and data updating.
-- **Capabilities**: Product Data Indexing · Search Operations · Record Storage
-- **Tech Stack**: Python · Database Management
-- 🔗 [View Repository](REPLACE_WITH_REPO_LINK)
-
-</td>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px; border: 1px solid #1F2937;">
-
-### 📊 Project 8: Analytics & Dashboard Portfolio
-**Business Intelligence & Data Visualization**
-
-- **Objective**: Collection of exploratory data analysis projects and executive reporting dashboards.
-- **Capabilities**: Data Cleaning · Metric Calculation · Dashboard Visualization · Business Insight Generation
-- **Tech Stack**: Power BI · Excel · Python · Pandas
-- 🔗 [View Repository](REPLACE_WITH_REPO_LINK)
-
-</td>
-</tr>
-
 </table>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
 
 <!-- ==================================================================== -->
 <!--                     INTERNSHIPS & EXPERIENCE                         -->
 <!-- ==================================================================== -->
 
-## 💼 Internships & Professional Experience
-
 <table width="100%">
-
 <tr>
-<td style="background-color: #0D1117; padding: 18px; border: 1px solid #1F2937;">
+<td style="background-color: #0d1117; padding: 22px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🏢 Infosys Springboard
-**Role**: **Artificial Intelligence Intern**
+<h2 style="color: #a78bfa;">💼 Internships & Professional Experience</h2>
+
+<h3 style="color: #a78bfa;">🏢 Infosys Springboard — Artificial Intelligence Intern</h3>
 - Applied Machine Learning algorithms for project risk analysis and prediction system design.
 - Handled end-to-end data processing pipelines and interactive Streamlit dashboard development.
 - Engineered AI project models for formal internship demonstration.
 
-</td>
-</tr>
+<hr style="border: 1px solid #1f2937;"/>
 
-<tr>
-<td style="background-color: #0D1117; padding: 18px; border: 1px solid #1F2937;">
-
-### 🌐 ApexPlanet
-**Role**: **Web Development Intern**
+<h3 style="color: #a78bfa;">🌐 ApexPlanet — Web Development Intern</h3>
 - Developed frontend web interfaces and interactive application features.
 - Participated in website design, layout optimization, and client interface development.
 
-</td>
-</tr>
+<hr style="border: 1px solid #1f2937;"/>
 
-<tr>
-<td style="background-color: #0D1117; padding: 18px; border: 1px solid #1F2937;">
-
-### 💻 Aroganam Technologies
-**Role**: **Junior Developer**
+<h3 style="color: #a78bfa;">💻 Aroganam Technologies — Junior Developer</h3>
 - Contributed to software development, application maintenance, and technical implementation tasks.
 
 </td>
 </tr>
-
 </table>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
 
 <!-- ==================================================================== -->
 <!--                    ACHIEVEMENTS & CERTIFICATIONS                     -->
 <!-- ==================================================================== -->
 
-## 🏆 Achievements & Certifications
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 18px; border: 1px solid #1F2937;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 20px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 🥇 Honors & Awards
+<h2 style="color: #a78bfa;">🏆 Honors & Achievements</h2>
 - 🥇 **FIRST PRIZE WINNER**: Autonomous Obstacle Avoiding Vehicle Project
 - 🥉 **THIRD PRIZE WINNER**: Thinklytics Analytics Competition
 - 📈 **10K LinkedIn Milestone**: Achieved ~10K LinkedIn professional follower community milestone.
 
 </td>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 18px; border: 1px solid #1F2937;">
+<td width="50%" valign="top" style="background-color: #0d1117; padding: 20px; border: 1px solid #1f2937; color: #f8fafc;">
 
-### 📜 Verified Certifications
+<h2 style="color: #a78bfa;">📜 Verified Certifications</h2>
 - 📜 **Guru99 Software Testing**: Beginner Level Certification
 - 📜 **Python Data Analysis**: LinkedIn Learning Certification
 - 📜 **Excel Dashboard Creation**: Professional Analytics
@@ -574,104 +483,17 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 
 <br/>
 
-## 👥 Community & Student Ambassador Programs
-
-- 🌟 **Microsoft Student Ambassadors**: Active participant exploring Microsoft student developer community resources and tools.
-- 🎓 **LetsUpgrade Student Ambassador**: Participant serving as a Student Ambassador supporting peer learning communities.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
-
-<!-- ==================================================================== -->
-<!--                    JOURNEY & PHILOSOPHY TIMELINE                     -->
-<!-- ==================================================================== -->
-
-## 🧭 Developer Growth Journey
-
-```
-School ──► B.E. CSE ──► Programming ──► Web Dev ──► Data Analytics
-                                                          │
-Career Goal ◄── Compile Journey ◄── RAG & AI ◄── ML & Data Science
-```
-
-<br/>
-
-## ⚙️ How I Build (Engineering Philosophy)
-
-```
-Problem Definition ──► Requirements ──► Data Collection ──► Analysis
-                                                             │
-Deployment ◄── Testing ◄── AI / RAG ◄── Database ◄── Model Building
-```
-
-<blockquote style="border-left: 4px solid #8B5CF6; padding-left: 10px; color: #A78BFA;">
-<b>My Approach</b>: Learn → Experiment → Build → Break → Debug → Improve → Deploy
-</blockquote>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
-
-<!-- ==================================================================== -->
-<!--                   CURRENT FOCUS & CAREER GOALS                       -->
-<!-- ==================================================================== -->
-
-## 🎯 Current Focus & Career Directions
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px;">
-
-### 🔭 Current Technical Focus
-- Advanced Machine Learning & Production AI
-- RAG Architectures with ChromaDB & Vector Embeddings
-- LLM Applications & AI Assistants
-- Project Intelligence & Predictive Risk Analysis
-- Data Structures, Algorithms & System Design
-- Research exploration in intelligent decision systems
-
-</td>
-<td width="50%" valign="top" style="background-color: #0D1117; padding: 16px;">
-
-### 🎯 Target Professional Roles
-- **Software Engineer**
-- **AI Engineer**
-- **Machine Learning Engineer**
-- **Data Scientist**
-
-*Combining strong software engineering fundamentals with intelligent AI/ML application development.*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📋 Placement Preparation Focus
-
-Preparing for technical software engineering and AI placement opportunities:
-- **Core Preparation**: Python · Data Structures & Algorithms · SQL · Web Development
-- **Aptitude & Reasoning**: Quantitative Aptitude · Logical Reasoning
-- **Interview Skills**: Technical Coding Interviews · System/Project Explanation · HR Preparation
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
-
 <!-- ==================================================================== -->
 <!--                     ADVANCED GITHUB ANALYTICS                        -->
 <!-- ==================================================================== -->
 
-## 📈 Advanced GitHub Analytics Dashboard
+<table width="100%">
+<tr>
+<td align="center" style="background-color: #0d1117; padding: 25px; border: 1px solid #1f2937;">
 
-<div align="center">
+<h2 style="color: #a78bfa;">📈 GitHub Analytics Dashboard</h2>
+
+<br/>
 
 <!-- GitHub Stats & Top Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abikrishna2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=F8FAFC"/>
@@ -695,54 +517,56 @@ Preparing for technical software engineering and AI placement opportunities:
 <br/><br/>
 
 <!-- Animated Snake Contribution Graph -->
-### 🧬 Contribution Snake Graph
+<h3 style="color: #a78bfa;">🧬 Contribution Snake Graph</h3>
 <img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Contribution Animation"/>
 
 <br/><br/>
 
 <!-- Extended Metrics Dashboard -->
-### 📈 Profile Metrics Dashboard
+<h3 style="color: #a78bfa;">📈 Profile Metrics Dashboard</h3>
 <img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/main/metrics.svg" width="95%" alt="Extended Profile Metrics"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/><br/>
 
 <!-- ==================================================================== -->
 <!--                           CONNECT & FOOTER                           -->
 <!-- ==================================================================== -->
 
-## 🤝 Let's Build Something Meaningful
+<table width="100%">
+<tr>
+<td align="center" style="background-color: #0d1117; padding: 25px; border: 1px solid #1f2937; color: #f8fafc;">
+
+<h2 style="color: #a78bfa;">🤝 Let's Build Something Meaningful</h2>
 
 I am always interested in building useful technology, exploring innovative ideas, collaborating on projects, and learning from other developers.
 
-<div align="center">
+<br/>
 
-<a href="https://github.com/Abikrishna2004">
-  <img src="https://img.shields.io/badge/GitHub-Abikrishna2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/abikrishna">
-  <img src="https://img.shields.io/badge/LinkedIn-Abikrishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/compile.journey">
-  <img src="https://img.shields.io/badge/Instagram-@compile.journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://abikrishnacj.web.app">
-  <img src="https://img.shields.io/badge/Portfolio-abikrishnacj.web.app-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,25:4c1d95,50:1f2937,75:0d1117,100:080b12&height=150&section=footer"/>
+<p align="center">
+  <a href="https://github.com/Abikrishna2004">
+    <img src="https://img.shields.io/badge/GitHub-Abikrishna2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abikrishna">
+    <img src="https://img.shields.io/badge/LinkedIn-Abikrishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/compile.journey">
+    <img src="https://img.shields.io/badge/Instagram-@compile.journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://abikrishnacj.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-abikrishnacj.web.app-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 <br/>
 
-<sub>⭐ Abikrishna P. &nbsp;•&nbsp; AI • Machine Learning • Data Science • Software Engineering &nbsp;•&nbsp; Founder of <a href="https://abikrishnacj.web.app">Compile Journey</a></sub>
+<sub>⭐ Abikrishna P. &nbsp;•&nbsp; AI • Machine Learning • Data Science • Software Engineering &nbsp;•&nbsp; Founder of <a href="https://abikrishnacj.web.app" style="color: #a78bfa;">Compile Journey</a></sub>
 <br/>
 <sub><i>"Where curiosity compiles creativity. Built with curiosity, code and continuous learning."</i></sub>
 
-</div>
+</td>
+</tr>
+</table>
