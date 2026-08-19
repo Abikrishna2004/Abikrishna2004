@@ -1,13 +1,15 @@
 <div align="center">
 
-<!-- ==================================================================== -->
-<!--                         HERO DASHBOARD HEADER                        -->
-<!-- ==================================================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,25:0d1117,50:1f2937,75:4c1d95,100:8b5cf6&height=280&section=header&text=Hi,%20I'm%20Abikrishna%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20Data%20Science%20%7C%20Software%20Engineering%20%7C%20Full%20Stack%20Development&descSize=16&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,25:0d1117,50:1f2937,75:4c1d95,100:8b5cf6&height=280&section=header&text=Abikrishna%20P.&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20Data%20Science%20%7C%20Software%20Engineering%20%7C%20Full%20Stack%20Development&descSize=16&descAlignY=56"/>
 
+<br/><br/>
 
+<!-- Company Logo (Compile Journey) -->
+<a href="https://abikrishnacj.web.app">
+  <img src="assets/compile-journey-logo.png" width="145" alt="Compile Journey Logo"/>
+</a>
 
-<!-- Dynamic Animated Typing Tagline -->
+<br/><br/><!-- Dynamic Animated Typing Tagline -->
 <a href="https://github.com/Abikrishna2004">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=100&lines=AI+%26+Machine+Learning+Developer;Data+Science+%26+Analytics+Enthusiast;Python+Developer;Full+Stack+Developer;Building+Intelligent+Applications;Founder+of+Compile+Journey;Building+ProjectRisk;Learning.+Building.+Deploying." alt="Typing Tagline"/>
 </a>
