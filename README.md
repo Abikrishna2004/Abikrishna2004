@@ -38,63 +38,53 @@
 <br/><br/>
 
 <!-- ==================================================================== -->
-<!--                         TWO-COLUMN ABOUT ME                          -->
+<!--                       ABOUT ME (NO CODE BLOCK)                       -->
 <!-- ==================================================================== -->
 
 ## 🧠 About Me
 
+<div align="center">
+
 <table width="100%">
 <tr>
-<td width="55%" valign="top" style="background-color: #0d1117;">
+<td style="background-color: #0d1117; padding: 20px;">
 
-```python
-class Abikrishna:
-    def __init__(self):
-        self.name = "Abikrishna P."
-        self.role = [
-            "Software Engineer",
-            "AI/ML Enthusiast",
-            "Data Scientist",
-            "Full-Stack Developer"
-        ]
-        self.education = "B.E. CSE, Anna University (2027)"
-        self.founder_of = "Compile Journey"
-        self.exploring = [
-            "RAG Systems",
-            "LLM Apps",
-            "AI Assistants",
-            "Production AI"
-        ]
-        self.philosophy = (
-            "Learn → Experiment → Build → Break "
-            "→ Debug → Improve → Deploy"
-        )
+### 👋 Hi, I'm Abikrishna P.
+**Software Engineer | AI/ML Engineer | Data Scientist | Founder @ Compile Journey**
 
-    def career_goal(self) -> str:
-        return (
-            "Software Engineer / AI Engineer building "
-            "explainable, decision-driven intelligent systems"
-        )
+<br/>
 
-me = Abikrishna()
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="background-color: #0d1117;">
+
+- 🎓 **Education**: B.E. Computer Science & Engineering (2027)
+- 🏫 **University**: Akshaya College of Engineering & Technology (Anna University)
+- 🚀 **Entrepreneurship**: Founder of **[Compile Journey](https://abikrishnacj.web.app)**
+- 💼 **Industry Experience**:
+  - **AI Intern** @ Infosys Springboard
+  - **Web Developer Intern** @ ApexPlanet
+  - **Junior Developer** @ Aroganam Technologies
 
 </td>
-<td width="45%" valign="top" style="background-color: #0d1117;">
+<td width="50%" valign="top" style="background-color: #0d1117;">
 
-- 🎓 **Education**: Final-year CSE @ **Akshaya College of Engineering and Technology** (Anna University)
-- 🚀 **Founder**: **[Compile Journey](https://abikrishnacj.web.app)** · *"Where Curiosity Compiles Creativity"*
-- 🧭 **Journey**: `Programming → Web Dev → Data Analytics → Data Science → ML → AI → RAG → Intelligent Apps → Research`
-- 💼 **Experience**: 
-  - AI Intern @ **Infosys Springboard**
-  - Web Dev Intern @ **ApexPlanet**
-  - Junior Developer @ **Aroganam Technologies**
-- 🏆 **Awards**: 🥇 **First Prize** — Autonomous Obstacle-Avoiding Vehicle | 🥉 **3rd Prize** — Thinklytics Contest
+- 🤖 **Core Focus**: Intelligent Systems, Machine Learning, RAG Pipelines & Data Science
+- 🏆 **Major Achievements**:
+  - 🥇 **First Prize Winner** — Autonomous Obstacle-Avoiding Vehicle
+  - 🥉 **3rd Prize Winner** — Thinklytics Analytics Contest
 - 🌱 **Sharpening**: Advanced ML · RAG Pipelines · System Design · DSA
+- 💡 **Philosophy**: *Learn → Experiment → Build → Break → Debug → Improve → Deploy*
 
 </td>
 </tr>
 </table>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
