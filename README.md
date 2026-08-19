@@ -495,9 +495,15 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 
 <br/>
 
-<!-- GitHub Stats & Top Languages -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abikrishna2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=F8FAFC" alt="GitHub Stats Card"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abikrishna2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F8FAFC" alt="Top Languages Card"/>
+<!-- Profile Summary Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abikrishna2004&theme=2077" width="95%" alt="Profile Details Card"/>
+
+<br/><br/>
+
+<!-- Repos & Commits Per Language Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abikrishna2004&theme=2077" width="48%" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abikrishna2004&theme=2077" width="48%" alt="Most Commit Language"/>
 
 <br/><br/>
 
