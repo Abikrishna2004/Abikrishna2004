@@ -9,7 +9,7 @@
 
 <!-- Strategic Compile Journey Logo Placement -->
 <a href="https://abikrishnacj.web.app">
-  <img src="./assets/cj-logo.png" width="140" alt="Compile Journey Logo"/>
+  <img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/main/assets/compile-journey-logo.png" width="140" alt="Compile Journey Logo"/>
 </a>
 
 <br/><br/>
@@ -138,7 +138,7 @@ A high-impact **Software Engineer / AI Engineer** who designs explainable, data-
 
 <div align="center">
   <a href="https://abikrishnacj.web.app">
-    <img src="./assets/cj-logo.png" width="120" alt="Compile Journey Logo"/>
+    <img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/main/assets/compile-journey-logo.png" width="120" alt="Compile Journey Logo"/>
   </a>
   <h3 style="color: #A78BFA; margin-top: 10px;">COMPILE JOURNEY</h3>
   <p style="color: #94A3B8; font-weight: 600;"><i>"Where Curiosity Compiles Creativity"</i></p>
