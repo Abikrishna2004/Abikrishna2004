@@ -5,14 +5,7 @@
 <!-- ==================================================================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,25:0d1117,50:1f2937,75:4c1d95,100:8b5cf6&height=280&section=header&text=Hi,%20I'm%20Abikrishna%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20Data%20Science%20%7C%20Software%20Engineering%20%7C%20Full%20Stack%20Development&descSize=16&descAlignY=56"/>
 
-<br/><br/>
 
-<!-- Strategic Compile Journey Logo Placement -->
-<a href="https://abikrishnacj.web.app">
-  <img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/main/assets/compile-journey-logo.png" width="140" alt="Compile Journey Logo"/>
-</a>
-
-<br/><br/>
 
 <!-- Dynamic Animated Typing Tagline -->
 <a href="https://github.com/Abikrishna2004">
@@ -137,10 +130,7 @@ A high-impact **Software Engineer / AI Engineer** who designs explainable, data-
 <tr><td style="background-color: #0D1117; border: 1px solid #1F2937; padding: 22px;">
 
 <div align="center">
-  <a href="https://abikrishnacj.web.app">
-    <img src="https://raw.githubusercontent.com/Abikrishna2004/Abikrishna2004/main/assets/compile-journey-logo.png" width="120" alt="Compile Journey Logo"/>
-  </a>
-  <h3 style="color: #A78BFA; margin-top: 10px;">COMPILE JOURNEY</h3>
+  <h2 style="color: #A78BFA; margin-top: 10px;">🚀 COMPILE JOURNEY</h2>
   <p style="color: #94A3B8; font-weight: 600;"><i>"Where Curiosity Compiles Creativity"</i></p>
 </div>
 
