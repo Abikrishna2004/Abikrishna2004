@@ -434,20 +434,26 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 <h2 style="color: #a78bfa;">💼 Internships & Professional Experience</h2>
 
 <h3 style="color: #a78bfa;">🏢 Infosys Springboard — Artificial Intelligence Intern</h3>
-- Applied Machine Learning algorithms for project risk analysis and prediction system design.
-- Handled end-to-end data processing pipelines and interactive Streamlit dashboard development.
-- Engineered AI project models for formal internship demonstration.
+<ul style="line-height: 1.7; padding-left: 20px;">
+  <li>Applied Machine Learning algorithms for project risk analysis and prediction system design.</li>
+  <li>Handled end-to-end data processing pipelines and interactive Streamlit dashboard development.</li>
+  <li>Engineered AI project models for formal internship demonstration.</li>
+</ul>
 
 <hr style="border: 1px solid #1f2937;"/>
 
 <h3 style="color: #a78bfa;">🌐 ApexPlanet — Web Development Intern</h3>
-- Developed frontend web interfaces and interactive application features.
-- Participated in website design, layout optimization, and client interface development.
+<ul style="line-height: 1.7; padding-left: 20px;">
+  <li>Developed frontend web interfaces and interactive application features.</li>
+  <li>Participated in website design, layout optimization, and client interface development.</li>
+</ul>
 
 <hr style="border: 1px solid #1f2937;"/>
 
 <h3 style="color: #a78bfa;">💻 Aroganam Technologies — Junior Developer</h3>
-- Contributed to software development, application maintenance, and technical implementation tasks.
+<ul style="line-height: 1.7; padding-left: 20px;">
+  <li>Contributed to software development, application maintenance, and technical implementation tasks.</li>
+</ul>
 
 </td>
 </tr>
@@ -464,18 +470,22 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 <td width="50%" valign="top" style="background-color: #0d1117; padding: 20px; border: 1px solid #1f2937; color: #f8fafc;">
 
 <h2 style="color: #a78bfa;">🏆 Honors & Achievements</h2>
-- 🥇 **FIRST PRIZE WINNER**: Autonomous Obstacle Avoiding Vehicle Project
-- 🥉 **THIRD PRIZE WINNER**: Thinklytics Analytics Competition
-- 📈 **10K LinkedIn Milestone**: Achieved ~10K LinkedIn professional follower community milestone.
+<ul style="line-height: 1.8; padding-left: 20px; margin-top: 10px;">
+  <li style="margin-bottom: 8px;">🥇 <b>FIRST PRIZE WINNER</b>: Autonomous Obstacle Avoiding Vehicle Project</li>
+  <li style="margin-bottom: 8px;">🥉 <b>THIRD PRIZE WINNER</b>: Thinklytics Analytics Competition</li>
+  <li style="margin-bottom: 8px;">📈 <b>10K LinkedIn Milestone</b>: Achieved ~10K LinkedIn professional follower community milestone.</li>
+</ul>
 
 </td>
 <td width="50%" valign="top" style="background-color: #0d1117; padding: 20px; border: 1px solid #1f2937; color: #f8fafc;">
 
 <h2 style="color: #a78bfa;">📜 Verified Certifications</h2>
-- 📜 **Guru99 Software Testing**: Beginner Level Certification
-- 📜 **Python Data Analysis**: LinkedIn Learning Certification
-- 📜 **Excel Dashboard Creation**: Professional Analytics
-- 📜 **HackerRank Python**: Skill Assessment Verified
+<ul style="line-height: 1.8; padding-left: 20px; margin-top: 10px;">
+  <li style="margin-bottom: 8px;">📜 <b>Guru99 Software Testing</b>: Beginner Level Certification</li>
+  <li style="margin-bottom: 8px;">📜 <b>Python Data Analysis</b>: LinkedIn Learning Certification</li>
+  <li style="margin-bottom: 8px;">📜 <b>Excel Dashboard Creation</b>: Professional Analytics</li>
+  <li style="margin-bottom: 8px;">📜 <b>HackerRank Python</b>: Skill Assessment Verified</li>
+</ul>
 
 </td>
 </tr>
