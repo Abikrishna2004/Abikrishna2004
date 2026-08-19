@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,25:0d1117,50:1f2937,75:4c1d95,100:8b5cf6&height=280&section=header&text=Abikrishna%20P.&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20%7C%20Data%20Science%20%7C%20Software%20Engineering%20%7C%20Full%20Stack%20Development&descSize=16&descAlignY=56"/>
-
-<br/><br/>
+<br/>
 
 <!-- Company Logo (Compile Journey) -->
 <a href="https://abikrishnacj.web.app">
-  <img src="assets/compile-journey-logo.png" width="145" alt="Compile Journey Logo"/>
+  <img src="assets/compile-journey-logo.png" width="160" alt="Compile Journey Logo"/>
 </a>
 
 <br/><br/><!-- Dynamic Animated Typing Tagline -->
