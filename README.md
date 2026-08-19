@@ -496,23 +496,18 @@ LLM Response ◄── Generation ◄── Retrieval ◄── Vector DB ◄─
 <br/>
 
 <!-- GitHub Stats & Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abikrishna2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=F8FAFC" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abikrishna2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F8FAFC" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abikrishna2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=F8FAFC" alt="GitHub Stats Card"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abikrishna2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F8FAFC" alt="Top Languages Card"/>
 
 <br/><br/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Abikrishna2004&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Abikrishna2004&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="Streak Stats Card"/>
 
 <br/><br/>
 
 <!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abikrishna2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- Trophy Case -->
-<img src="https://github-profile-trophy.vercel.app/?username=Abikrishna2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" alt="Trophy Case"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abikrishna2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="95%" alt="Contribution Activity Graph"/>
 
 <br/><br/>
 
